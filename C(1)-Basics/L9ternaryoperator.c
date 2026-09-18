@@ -30,4 +30,6 @@ int main()
     return 0;
 }
 
+Here, '?' and ':' are the ternary operators.
+
 */
