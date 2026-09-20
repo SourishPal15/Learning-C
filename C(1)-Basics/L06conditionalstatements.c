@@ -4,7 +4,7 @@
 
 int main()
 {
-    printf("Read the comments o0f this lesson.");
+    printf("Read the comments of this lesson.");
 
     return 0;
 }
