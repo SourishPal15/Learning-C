@@ -1,4 +1,4 @@
-/* Q.1) Using for loop print the sum of numbers from 1 to N */
+/* Q.3) Using for loop print the sum of numbers from 1 to N */
 
 #include <stdio.h>
 
