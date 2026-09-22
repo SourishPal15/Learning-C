@@ -15,6 +15,9 @@ Loops in C are control flow structures used to execute a block of code
 repeatedly as long as a specified condition remains true, they reduce
 code redundancy, save lines of code, and make repetitive task easy
 
+There are either finite loops which run upto a specific number of time
+and there are infinite loops which can run infinitely.
+
 Three types of loops in C: 
 
 1) For-loop
