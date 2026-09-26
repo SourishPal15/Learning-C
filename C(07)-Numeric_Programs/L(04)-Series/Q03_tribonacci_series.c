@@ -22,3 +22,40 @@ int main()
 
     return 0;
 }
+
+/* 
+
+Using Recursion:
+
+#include <stdio.h>
+
+int Tribonacci(int n)
+{
+    if(n==0)
+        return 0;
+
+    if(n==1)
+        return 0;
+
+    if(n==2)
+        return 1;
+
+    return Tribonacci(n-1) + Tribonacci(n-2) + Tribonacci(n-3);
+}
+
+int main()
+{
+    int n,i;
+
+    printf("Enter the last term (N): ");
+    scanf("%d",&n);
+
+    printf("Tribonacci Series: ");
+
+    for(i=0;i<n;i++)
+        printf("%d ",Tribonacci(i));
+
+    return 0;
+}
+
+*/

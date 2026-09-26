@@ -21,3 +21,37 @@ int main()
 
     return 0;
 }
+
+/*
+
+Using Recursion: 
+
+#include <stdio.h>
+
+int Fibonacci(int n)
+{
+    if(n==0)
+        return 0;
+
+    if(n==1)
+        return 1;
+
+    return Fibonacci(n-1) + Fibonacci(n-2);
+}
+
+int main()
+{
+    int n,i;
+
+    printf("Enter the last term (N): ");
+    scanf("%d",&n);
+
+    printf("Fibonacci Series: ");
+
+    for(i=0;i<n;i++)
+        printf("%d ",Fibonacci(i));
+
+    return 0;
+}
+
+*/
