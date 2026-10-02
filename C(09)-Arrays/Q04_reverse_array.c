@@ -1,5 +1,5 @@
 /* Q.4) Write a program to reverse an array WITHOUT
-creating a new array */
+creating a new array, can use a third variable */
 
 #include <stdio.h>
 
