@@ -1,9 +1,9 @@
-/* Q.11) Print this pattern: 
+/* Q.12) Print this pattern:
 
 A
-B C
-D E F
-G H I J
+A B
+A B C
+A B C D
 
 Take n input from the user */
 
@@ -11,16 +11,16 @@ Take n input from the user */
 
 int main()
 {
-    int n,i,j,c=65;
+    int n, i, j;
+
     printf("Enter n: ");
     scanf("%d", &n);
 
-    for(i=1;i<=n;i++)
+    for (i = 1; i <= n; i++)
     {
-        for(j=1;j<=i;j++)
+        for (j = 1; j <= i; j++)
         {
-            printf("%c ", (char)c);
-            c++;
+            printf("%c ", 'A' + j - 1);
         }
         printf("\n");
     }
