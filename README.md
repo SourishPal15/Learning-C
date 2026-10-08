@@ -59,5 +59,8 @@ Learning-C/
 ├── 📁 C(08)-Pointers
 │   └── Pointer concepts and pointer-based programs
 │
-└── 📁 C(09)-Arrays
-    └── Array concepts and array-based programs
+├── 📁 C(09)-Arrays
+│   └── Array concepts and array-based programs
+│
+└── 📁 C(10)-Strings
+    └── String concepts and string-based programs
