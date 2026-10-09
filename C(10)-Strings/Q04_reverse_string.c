@@ -1,3 +1,6 @@
+/* Q.4) Write a program to take a string as input and then 
+reverse the string and print it */
+
 #include <stdio.h>
 
 int main()
