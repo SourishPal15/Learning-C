@@ -2,7 +2,7 @@
 an entered sentence */
 
 /* Note: This solution code works if there are multiple same
-words in the sentence, suppose: pizza is good pizza is tasty 
+words in the sentence, suppose: pizza is good pizza tasty 
 so the frequent word is pizza and its frequency is 2, but
 if the sentence is Hello World, the program would show the
 first word of the sentence that is "Hello" as the most 
