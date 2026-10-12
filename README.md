@@ -62,5 +62,9 @@ Learning-C/
 ├── 📁 C(09)-Arrays
 │   └── Array concepts and array-based programs
 │
-└── 📁 C(10)-Strings
-    └── String concepts and string-based programs
+├── 📁 C(10)-Strings
+│   └── String concepts and string-based programs
+│
+└── 📁 C(11)-Structures
+    └── Structure concepts, arrays of structures, structure programs
+```
