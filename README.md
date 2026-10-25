@@ -65,6 +65,9 @@ Learning-C/
 ├── 📁 C(10)-Strings
 │   └── String concepts and string-based programs
 │
-└── 📁 C(11)-Structures
-    └── Structure concepts, arrays of structures, structure programs
+├── 📁 C(11)-Structures
+│   └── Structure concepts, arrays of structures, structure programs
+│
+└── 📁 C(12)-File_Handling
+    └── File handling concepts and file-based programs
 ```
