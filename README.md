@@ -68,6 +68,9 @@ Learning-C/
 ├── 📁 C(11)-Structures
 │   └── Structure concepts, arrays of structures, structure programs
 │
-└── 📁 C(12)-File_Handling
-    └── File handling concepts and file-based programs
+├── 📁 C(12)-File_Handling
+│   └── File handling concepts and file-based programs
+│
+└── 📁 C(13)-Practice_Set
+    └── Practice problems covering various C programming concepts
 ```
