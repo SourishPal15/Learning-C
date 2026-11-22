@@ -1,4 +1,4 @@
-/* 31) Develop a C program in the context of a library management system to declare a structure
+/* Q.31) Develop a C program in the context of a library management system to declare a structure
 Book containing members: Title, Author, No_of_Pages, and Price. Create an array of N
 such books, populate it, and display the book(s) with the highest price and their
 corresponding author(s). The data type of the structure members should be decided
