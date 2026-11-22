@@ -1,8 +1,8 @@
 /* Q.34) Write a C program to copy one file into
 another file.  */
 
-
 /* PRE-REQUISITES: Make a .txt file nanmed 'source' */
+
 #include <stdio.h>
 
 int main()
